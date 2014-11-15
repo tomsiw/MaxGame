@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MaxGame.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="QuitMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Are you sure you want to quit?</Value>
+    </Setting>
+    <Setting Name="Question" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Question</Value>
+    </Setting>
+    <Setting Name="ClearMessage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Are you sure you want to clear the board?</Value>
+    </Setting>
+    <Setting Name="FailToSave" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Failed to save game file.</Value>
+    </Setting>
+    <Setting Name="Error" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Error</Value>
+    </Setting>
+    <Setting Name="FailToLoad" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Failed to load game file.</Value>
+    </Setting>
+    <Setting Name="Success" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Success</Value>
+    </Setting>
+    <Setting Name="CongratulationMsg" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Congratulations!</Value>
+    </Setting>
+    <Setting Name="OpenFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Select File To Open</Value>
+    </Setting>
+    <Setting Name="SaveFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Select File To Save</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
